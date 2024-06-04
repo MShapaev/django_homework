@@ -1,0 +1,560 @@
+[33mcommit 708397d15f4539d5ae606507af478c4892d51af2[m[33m ([m[1;36mHEAD -> [m[1;32mvideo[m[33m, [m[1;31morigin/video[m[33m)[m
+Author: Maksim Shapaev <shapaev.maxim@gmail.com>
+Date:   Thu May 23 17:41:52 2024 +0300
+
+    initial commit
+
+[33mcommit 3f9be3c0e14d55f5f8cce28fe2406c89632631c9[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Mon May 20 18:11:29 2024 +0300
+
+    Update books.json
+
+[33mcommit 1ba7e1aaf47c466af74ef0702c895ec67ada540c[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Mon May 20 18:11:07 2024 +0300
+
+    Update README.md
+
+[33mcommit 8e9a20585ea5a8cd3993c13cdd5531e23a4a505b[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Mon Jan 29 17:00:34 2024 +0100
+
+    Update README.md
+
+[33mcommit c7b7c0ef9cc7c633464d1c19a9335d644f5d416b[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Mon Jan 29 16:59:53 2024 +0100
+
+    Update README.md
+
+[33mcommit 2a0d4051bc2a9329d79c034980fa4416aaa1915a[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Mon Jan 29 16:58:37 2024 +0100
+
+    Update README.md
+
+[33mcommit 38d06c15f75cd6055e3efab83c2cc7e03a4f5661[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Thu Mar 2 23:47:30 2023 +0300
+
+    Update README.md
+
+[33mcommit f947b3b14170489813f521c3b51c7fdb8ea9089d[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 14:12:20 2023 +0300
+
+    Update README.md
+
+[33mcommit 892ec2e7cfd441ade8d7a1c357d0e7d111b9b9ee[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 14:06:23 2023 +0300
+
+    Update README.md
+
+[33mcommit 71f8e585f454d3b987a18c6c408a24321a31f41b[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 14:06:01 2023 +0300
+
+    Update README.md
+
+[33mcommit f80c88256729008d5b4aa8bb54f5aac4e53714e2[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 14:00:51 2023 +0300
+
+    Update README.md
+
+[33mcommit 67bc7e8878cd4712b08953ceca4048fbe806737b[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 13:56:34 2023 +0300
+
+    Update README.md
+
+[33mcommit f1d4d0c3eacb58b5ec2bb512eb84d15318d860aa[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 13:55:50 2023 +0300
+
+    Update README.md
+
+[33mcommit 03c8ad001dbbc6d465b87a40f30c8723491d9093[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 13:54:37 2023 +0300
+
+    Update README.md
+
+[33mcommit 9a8a15383f588cf362e825815292b5f0d812a585[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 13:14:51 2023 +0300
+
+    Update README.md
+
+[33mcommit e9e69d64cf485cc220267c0bdc79d95d50a35af3[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 13:00:15 2023 +0300
+
+    Update README.md
+
+[33mcommit 572e0eede1178a2bc37f56f465d7516835c2510b[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 12:58:48 2023 +0300
+
+    Update README.md
+
+[33mcommit 4a1c09c2f1d6e2113ee18c3dd4074b39b79e12b1[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 12:54:31 2023 +0300
+
+    Update README.md
+
+[33mcommit 585f0b7e5c95fe846c6448355dac97d7975c30fc[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 12:52:58 2023 +0300
+
+    Update README.md
+
+[33mcommit c1bb0b33ffd9282d56978d7a77aff5e2b03a3177[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 12:51:21 2023 +0300
+
+    Update README.md
+
+[33mcommit c80ebc5ab7e29d18ac8007dddf74c7487459c80b[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Fri Feb 24 12:50:48 2023 +0300
+
+    Update README.md
+
+[33mcommit cf2a6b747ff8ca827d3c03fec0ca39197b71a063[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Thu Feb 23 19:30:11 2023 +0300
+
+    Update README.md
+
+[33mcommit 80f911c85b78e686a7e4472a71754060181f7732[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Thu Feb 23 19:26:06 2023 +0300
+
+    Update README.md
+
+[33mcommit 01c498ea5eb0ee357ca3b56af8e51dc142c2eee0[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Thu Feb 23 19:25:13 2023 +0300
+
+    Update README.md
+
+[33mcommit b6dde384c68b2163606e349b6cf5c791be64f5ca[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Thu Feb 23 19:23:43 2023 +0300
+
+    Update README.md
+
+[33mcommit f2b3f10a4bd4971f4f84310155805ea65b01d5c4[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Thu Feb 23 19:22:04 2023 +0300
+
+    Update README.md
+
+[33mcommit 7ac27cfa7b0a2894e7228bb0723cbe12a7799504[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Thu Feb 23 19:20:28 2023 +0300
+
+    Update README.md
+
+[33mcommit 3cec0cf5b8a0898c85531ec79a7ec716f2784d01[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Thu Feb 23 19:20:03 2023 +0300
+
+    Update README.md
+
+[33mcommit 4e874cb1903f56f30e1e90aa8910c50e34c4b550[m
+Author: EleShvili <112869507+EleShvili@users.noreply.github.com>
+Date:   Thu Feb 23 19:17:50 2023 +0300
+
+    Update HOW_TO_WORK.md
+
+[33mcommit d85ff597427c60eef0c029480bb752776e68e77e[m
+Author: Evgeny Shmargunov <eshmargunov@gmail.com>
+Date:   Thu Jan 12 14:07:24 2023 +0300
+
+    Update HOW_TO_WORK.md
+
+[33mcommit 8f5cd83de96bc1c5021011879f22864cd574e9fd[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Mon Nov 7 20:19:13 2022 +0300
+
+    Update converters.py
+
+[33mcommit bb5fddb084324b2b0846cacf9d60583ee80b7485[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Mon Oct 24 11:00:52 2022 +0300
+
+    Update README.md
+
+[33mcommit 4540e87a1256ec685d99cdb22cc3649aca035163[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Mon Aug 22 10:06:31 2022 +0300
+
+    Update README.md
+
+[33mcommit 104100adec41d1aaf881128dcd4b89e4b11a2e2f[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Tue Aug 9 17:22:44 2022 +0300
+
+    Update README.md
+
+[33mcommit b98c23da4c194abbaa2501752c3814110ff04ac2[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Mon Aug 8 16:08:48 2022 +0300
+
+    Update HOW_TO_WORK.md
+
+[33mcommit a09b49a98a1d029547c3a38743d11cff6d32cb3e[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Mon Jul 4 11:22:47 2022 +0300
+
+    Update README.md
+
+[33mcommit 41669b9e076c7e19f41b0d7bc6694a67fd916466[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Tue May 17 10:57:59 2022 +0300
+
+    Update settings.py
+
+[33mcommit 503bd4885fd61a63b3ba8d35bdb11318f260db75[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Fri Apr 22 18:37:40 2022 +0300
+
+    Update settings.py
+
+[33mcommit 3dfe1dcad36066a5ba93047378886b3ce6ddc8a8[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Wed Apr 6 20:44:57 2022 +0300
+
+    Update README.md
+
+[33mcommit 7d335e207ee0cf4d8b869ac8dda535cf03fed4fe[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Tue Mar 29 08:44:22 2022 +0300
+
+    Update requirements.txt
+
+[33mcommit f6e1b5158da2957ebf6053c4979933e58c5b7bc5[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Mon Mar 14 21:55:59 2022 +0300
+
+    Update HOW_TO_WORK.md
+
+[33mcommit 2ac3f99f8d5343caf4312ba3ae7043c42adcd73e[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sun Feb 27 15:30:26 2022 +0300
+
+    Update README.md
+
+[33mcommit adce1b5b650c9833ae318cf661ca845acd4436b8[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sun Feb 27 15:30:05 2022 +0300
+
+    Update README.md
+
+[33mcommit 43771d9a9652a79e13bdd32a1c532c940e5ffc7f[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Thu Feb 24 00:07:17 2022 +0300
+
+    Update settings.py
+
+[33mcommit 2e7cfaee0ac8593c340d45bc2b2c034c18c9b574[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Thu Feb 24 00:06:50 2022 +0300
+
+    Update README.md
+
+[33mcommit 55ef4a005509f62e3f23df8d44adbd686287a494[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Fri Feb 11 11:00:02 2022 +0300
+
+    Update HOW_TO_WORK.md
+
+[33mcommit 8cc3372fe18e364519d5a91880bcc69ed340ca88[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Fri Dec 24 13:57:22 2021 +0300
+
+    Update README.md
+
+[33mcommit d3fb71893d65527bb58e8799bfd8ac3134929069[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Mon Dec 13 16:32:53 2021 +0300
+
+    Update README.md
+
+[33mcommit 669c3c5499e337d1c4917bd4265319a843cb6064[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Tue Dec 7 12:36:24 2021 +0300
+
+    Update README.md
+
+[33mcommit e1c0cab1ae4fcae51aee58d4432415a1c416831a[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Tue Dec 7 12:35:58 2021 +0300
+
+    Update README.md
+
+[33mcommit 5cbec9a60475f58e316bf68779d352349bcaf190[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 11:49:36 2021 +0300
+
+    Update README.md
+
+[33mcommit 7a6f018fb17921130811e0ed7c73e8189262ddb1[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 11:49:26 2021 +0300
+
+    Update README.md
+
+[33mcommit 9641ebafd223bfabdeb324154edb9f5fc453c156[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 11:49:16 2021 +0300
+
+    Update README.md
+
+[33mcommit c47ef24357cafc87664d33ebd84669c559f0aa6d[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 11:48:33 2021 +0300
+
+    Update README.md
+
+[33mcommit d5f4232963fb72e456d098120e418403380c2a57[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 11:48:21 2021 +0300
+
+    Update README.md
+
+[33mcommit 2cac8d852590617a853ec47193deaeaf3afedce0[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 11:47:59 2021 +0300
+
+    Update README.md
+
+[33mcommit be3b79c195dd4ccb5fb776da8cacdf488c2e9c4b[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 11:47:49 2021 +0300
+
+    Update README.md
+
+[33mcommit ade47ff4ebff34305aff36b1af67df6beedb807a[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 11:46:34 2021 +0300
+
+    Update README.md
+
+[33mcommit 56837a321e88bf770616a8a2db2832170452461a[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat Oct 23 20:09:03 2021 +0300
+
+    Update README.md
+
+[33mcommit 6f56f6902bca82cd4cdf721a11bb0f3e1f87fdf1[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat Oct 23 20:08:05 2021 +0300
+
+    Update README.md
+
+[33mcommit 9730a3346431fea7a35e5e60c17adfa459be1a9b[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat Oct 23 20:04:51 2021 +0300
+
+    Removed old hw
+
+[33mcommit 12c84876409142c5022d90189aac2e8ea7007d5e[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat Oct 23 20:04:02 2021 +0300
+
+    Added new hw for 3.1
+
+[33mcommit 148fc50eb0cf479b7d195307565ddbb0cbe6bf4e[m[33m ([m[1;31morigin/drf[m[33m)[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat Oct 23 18:23:38 2021 +0300
+
+    Update README.md
+
+[33mcommit 52eab2c669279a02f2cc7abdb28490718229a0c0[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat Oct 23 13:58:34 2021 +0300
+
+    Update README.md
+
+[33mcommit a56b3cf6dec7ed8533f3c67d161b2b9ca93678ab[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat Oct 23 13:27:42 2021 +0300
+
+    Update README.md
+
+[33mcommit b0d114c00e8d5dcde17697c0ff05bfff03063e9a[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Mon Aug 2 00:35:37 2021 +0300
+
+    Fixed csv
+
+[33mcommit 9e0f585d5cc140e11e3b23990d6d00c6cff286b4[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sun Aug 1 23:54:46 2021 +0300
+
+    Fixed template dirs
+
+[33mcommit efad1be41b2b337e72fce88242fea841d4c71f2b[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sun Aug 1 23:53:41 2021 +0300
+
+    Fixed deps
+
+[33mcommit adde747266fea467467ea9af2af75746176a845e[m
+Author: sashalisina <64093321+sashalisina@users.noreply.github.com>
+Date:   Mon Jun 7 02:39:28 2021 +0300
+
+    Update README.md
+
+[33mcommit 666fb7a8e429f3395bcdde9769bbcd189b6df83f[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat May 8 14:44:42 2021 +0300
+
+    Removed old hws
+
+[33mcommit 0310f2c6b3d958ed54bbc05f8db357ff5b6da8c1[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat May 8 13:40:58 2021 +0300
+
+    Fixed readme
+
+[33mcommit 8d97ccf7d4c06d6801b60c449673613b94dc1db4[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat May 8 13:39:34 2021 +0300
+
+    Updated hw 3.3
+
+[33mcommit fe8ee9ed76ec3bc6beac2b931e75a21570fa07f4[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat May 8 12:51:45 2021 +0300
+
+    Renamed hw 3.4
+
+[33mcommit b77d7b08b273d65d4e33929be15742aa8b40c679[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat May 8 12:51:28 2021 +0300
+
+    Fixed Readme
+
+[33mcommit 1b8511c0ebf27fe9815d416c514de5005ef78ea6[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat May 8 12:34:16 2021 +0300
+
+    Added description for hw 3.2
+
+[33mcommit f7146844aad032a7fee5c0598d5e23882678c0a3[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat May 8 12:17:08 2021 +0300
+
+    Added precode for hw 3.2
+
+[33mcommit 4ddc121be96767cdc42e20136eef7117dffe53b7[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Fri May 7 21:51:30 2021 +0300
+
+    Updated hw 3.1
+
+[33mcommit b3b50b0628212646eb92862d74a084ee60e3ca74[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Tue May 4 23:41:18 2021 +0300
+
+    Fixed task2 in hw 2.2
+
+[33mcommit 2d93f7f55d6d810d36865a37ae60ef7b8a112624[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Tue May 4 23:32:02 2021 +0300
+
+    Updated task 1 in hw 2.2
+
+[33mcommit 9cf0cf02effa2ccc62d0516c53e9e34a42ea3fde[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Tue May 4 23:05:39 2021 +0300
+
+    Removed unused task in hw 2.2
+
+[33mcommit c18755196d03e620f968807824aed120209744f5[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Tue May 4 23:00:53 2021 +0300
+
+    Fixed 2nd task in hw 2.1
+
+[33mcommit 7728ca7370f22925bed75f750b45c7e2b39c89a2[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Tue May 4 22:55:03 2021 +0300
+
+    Updated hw 2.1
+
+[33mcommit 0e24db716bd8472e5435f6d0cecc7d3082c843f2[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sun Apr 25 02:26:43 2021 +0300
+
+    Removed additional task
+
+[33mcommit b2bd502e179fd337a15b03759f72736b0dcc94ec[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sun Apr 25 02:21:56 2021 +0300
+
+    Renamed block 2
+
+[33mcommit dd389492f7b2433a9d0bc024de109dd054685d22[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sun Apr 25 02:19:42 2021 +0300
+
+    Fixed title
+
+[33mcommit dc7a93073a1b1fdef447a16ebc99004ad53b5da6[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sun Apr 25 01:06:23 2021 +0300
+
+    Updated 1.2
+
+[33mcommit 7eaef92e26fd9bcc12734e56d9cb79cac6a3b095[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sun Apr 25 01:04:50 2021 +0300
+
+    Updated first block
+
+[33mcommit c0a0e5844eee3b1e0056a61d8955d2efa75bb7f8[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat Apr 24 22:31:27 2021 +0300
+
+    Updated readme
+
+[33mcommit c437d1ddc49865edbe7b97630100c9dd3f4807bd[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat Apr 24 22:24:39 2021 +0300
+
+    Renamed 01
+
+[33mcommit 7d6c418b34fe6439bb3107600d6a9c699cad23a3[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat Apr 24 22:24:22 2021 +0300
+
+    Removed reqs from root
+
+[33mcommit 39af615dfc7b0e58b0cdf742688fb640c3a4bf46[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Sat Apr 24 21:55:18 2021 +0300
+
+    Updated gitignore
+
+[33mcommit 21261486374503800b0691a36517c7506af6463f[m
+Merge: 299090b 4c17db4
+Author: Maxim Filipenko <proktusfahitasiv@gmail.com>
+Date:   Mon Dec 14 02:59:51 2020 +0300
+
+    Merge pull request #88 from artrey/master
+    
+    Updated hw precode to django 3.x
+
+[33mcommit 4c17db4aec000dd380223d842b7c03e8f27175b5[m
+Author: Alexander Ivanov <oz.sasha.ivanov@gmail.com>
+Date:   Fri Dec 11 15:29:38 2020 +0300
+
+    Updated hw precode to django 3.x
